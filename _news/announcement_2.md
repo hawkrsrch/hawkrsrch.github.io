@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received [Outstanding Reviewer Award](https://eccv2022.ecva.net/program/outstanding-reviewers/) at ECCV 2022
+Received [Outstanding Reviewer Award](https://eccv2022.ecva.net/program/outstanding-reviewers/) at [ECCV 2022](https://eccv2022.ecva.net/).

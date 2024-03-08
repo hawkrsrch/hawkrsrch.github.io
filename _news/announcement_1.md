@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A 3D multi-person pose estimation paper accepted by TPAMI.
+A 3D multi-person pose estimation paper accepted to [TPAMI](https://ieeexplore.ieee.org/abstract/document/9763389).

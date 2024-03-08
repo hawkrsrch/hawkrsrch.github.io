@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-02-05 03:08:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+A 2D human pose estimation paper is accepted to [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001048) journal. 

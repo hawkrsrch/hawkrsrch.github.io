@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: ✉️ hawk.rsrch ''at'' gmail.com
 
 profile:
   align: right

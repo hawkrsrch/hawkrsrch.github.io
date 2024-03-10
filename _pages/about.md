@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> ✉️ hawk.rsrch ''at'' gmail dot com</p>
+    <p style="font-size:15px;"> ✉️ hawk.rsrch ''at'' gmail dot com</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A 2D human pose estimation paper accepted to [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001048) journal. 
+A 2D human pose estimation paper accepted to [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001048) journal.

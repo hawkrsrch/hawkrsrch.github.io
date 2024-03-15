@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Serve as Area Chair for [ECCV 2024](https://eccv.ecva.net/). 
+Serve as Area Chair for [ECCV 2024](https://eccv.ecva.net/).

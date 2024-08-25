@@ -26,7 +26,11 @@ The latest resurgence fuels by major advances in [computer vision](https://en.wi
 
 ## 2012 to now (2024)
 
-When [Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues) was first launched in [April 2012](https://scholar.googleblog.com/2012/04/google-scholar-metrics-for-publications.html), the [Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/Conferences/2025) barely made the top 100 English publications list, ranking at 97. At that time, it was rare for engineering conferences and journals to break into top 100 list. Fast forward to 2024, CVPR has risen to the [No. 2](https://scholar.google.com/citations?view_op=top_venues) spot among all English publications across all desiplines, ranking just below Nature. This positions it above other prestigious publications such as the New England Journal of Medicine (No. 3), Science (No. 4), and The Lancet (No. 6), underscoring its substantial importance in the global research community. This milestone also represents a notable achievement for engineering research, illustrating the first time that an engineering publication has reached such a prominent ranking among all academic disciplines. To visually illustrate this shift over the past twelve years, the plot below traces CVPR’s ascent in ranking from its position in 2012, when Google Scholar Metrics were first introduced, to its current standing as of August 25, 2024. 
+When [Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues) was first launched in [April 2012](https://scholar.googleblog.com/2012/04/google-scholar-metrics-for-publications.html), the [Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/Conferences/2025) barely made the top 100 English publications list, ranking at 97. At that time, it was rare for engineering conferences and journals to break into top 100 list. 
+
+Fast forward to 2024, CVPR has risen to the [No. 2](https://scholar.google.com/citations?view_op=top_venues) spot among all English publications across all desiplines, ranking just below Nature. This positions it above other prestigious publications such as the New England Journal of Medicine (No. 3), Science (No. 4), and The Lancet (No. 6), underscoring its substantial importance in the global research community. 
+
+This milestone also represents a notable achievement for engineering research, illustrating the first time that an engineering publication has reached such a prominent ranking among all academic disciplines. To visually illustrate this shift over the past twelve years, the plot below traces CVPR’s ascent in ranking from its position in 2012, when Google Scholar Metrics was first introduced, to its current standing as of August 2024. 
 
 ```chartjs
 {
@@ -90,9 +94,13 @@ When [Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_v
 ```
 
 
-CVPR’s meteoric rise reflects broader trends within the field. Similarly, other leading computer vision and AI conferences, such as NeurIPS, ICLR, and ICML, have also seen significant improvements in their standings among the top 100 English publications. Notably, the [International Conference on Computer Vision (ICCV)](https://openaccess.thecvf.com/ICCV2023?day=all) and the [European Conference on Computer Vision (ECCV)](https://eccv.ecva.net/Conferences/2024), which are held biennially and alternate each year, also rank highly despite their less frequent occurrences. The standings (ICCV 13th and ECCV 46th) are partly due to the H5-index [1] used by Google Scholar Metrics, which evaluates publications over a five-year period. 
+CVPR’s meteoric rise reflects broader trends within the field. Similarly, other leading computer vision and AI conferences, such as NeurIPS, ICLR, ICML, and AAAI, have also seen significant improvements in their standings among the top 100 publications. 
 
-Even though ICCV and ECCV contribute fewer volumes within any given five-year window, their influence remains nearly as significant as that of the annual conferences (CVPR, NeurIPS, ICLR, ICML, AAAI, etc), underscoring their high quality and impact in the field. An interesting perspective is to consider ICCV and ECCV as essentially splitting CVPR into two entities; collectively, their H5 indices (291 for ICCV and 206 for ECCV) even surpass that of CVPR (440), though a precise H5 index calculation would be necessary for an exact comparison. 
+Notably, the [International Conference on Computer Vision (ICCV)](https://openaccess.thecvf.com/ICCV2023?day=all) and the [European Conference on Computer Vision (ECCV)](https://eccv.ecva.net/Conferences/2024), which are held biennially and alternate each year, also rank highly despite their less frequent occurrences. The standings (ICCV 13th and ECCV 46th) are partly due to the H5-index [1] used by Google Scholar Metrics, which evaluates publications over a five-year period. 
+
+Even though ICCV and ECCV contribute fewer volumes within any given five-year window, their influence remains nearly as significant as that of the annual conferences (CVPR, NeurIPS, ICLR, ICML, AAAI, etc), underscoring their high quality and impact in the field. 
+
+An interesting perspective is to consider ICCV and ECCV as essentially splitting CVPR into two entities; collectively, their H5 indices (291 for ICCV and 206 for ECCV) even surpass that of CVPR (440), though a precise H5 index calculation would be necessary for an exact comparison. 
 
 
 | Rank | Publication | h5-index |

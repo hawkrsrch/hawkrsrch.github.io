@@ -26,7 +26,7 @@ The latest resurgence fuels by major advances in [computer vision](https://en.wi
 
 ## 2012 to now (2024)
 
-When [Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues) was first launched in [April 2012](https://scholar.googleblog.com/2012/04/google-scholar-metrics-for-publications.html), the [Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/Conferences/2025) barely made the top 100 English publications list, ranking at 97. At that time, it was rare for engineering conferences and journals to break into top 100 list. 
+When [Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues) was first launched in [April 2012](https://scholar.googleblog.com/2012/04/google-scholar-metrics-for-publications.html), the [Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/Conferences/2025) barely made the top 100 English publications list, ranking at 97. At that time, it was rare for engineering conferences and journals to break into the top 100 list. 
 
 Fast forward to 2024, CVPR has risen to the [No. 2](https://scholar.google.com/citations?view_op=top_venues) spot among all English publications across all desiplines, ranking just below Nature. This positions it above other prestigious publications such as the New England Journal of Medicine (No. 3), Science (No. 4), and The Lancet (No. 6), underscoring its substantial importance in the global research community. 
 

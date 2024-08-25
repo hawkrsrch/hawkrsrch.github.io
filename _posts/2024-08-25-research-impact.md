@@ -125,7 +125,7 @@ As computer vision and broader AI technologies increasingly intertwine with our 
 
 A recent Business Insider report about Microsoft’s Copilot [2] highlights the challenges AI technologies face when transitioning from controlled test environments to real-world conditions. This underscores the importance of my research, which is dedicated to improving the adaptability and performance of models beyond controlled test cases.
 
-If you’re interested in pushing the boundaries of computer vision, deep learning, and general AI research toward more robust and generalizable models, I encourage you to connect with me to explore potential collaborations.
+If you’re interested in pushing the boundaries of computer vision, deep learning, and general AI research toward more robust and generalizable models, I encourage you to reach out to me to explore potential collaborations.
 
 
 [1] The h5-index is the h-index for articles published in the last five complete years. It measures the largest number h such that h articles published from 2019 to 2023 each have received at least h citations.

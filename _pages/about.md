@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in [Computer Science](https://cs.olemiss.edu/) at [Ole Miss](https://olemiss.edu/). My research focuses on computer vision and deep learning, particularly in human-centric tasks such as human pose and human-objection interaction. For more information about my research, explore [my blog post](/blog/2024/research-impact) highlighting the impact of computer vision and deep learning research.
+I am an Assistant Professor in [Computer Science](https://cs.olemiss.edu/) at [Ole Miss](https://olemiss.edu/). My research focuses on computer vision and deep learning, particularly in human-centric tasks such as human pose and human-objection interaction. For more information, check out [my blog post](/blog/2024/research-impact). 
 
 I obtained my PhD from the School of Computing at the University of Utah. After completing my PhD, I spent nearly a decade in industry research labs, with positions from Research Scientist to Principal Researcher at GE Global Research, Tencent US, and CtrsVision.
 

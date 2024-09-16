@@ -115,6 +115,9 @@ An interesting perspective is to consider ICCV and ECCV as essentially splitting
 | 46       | European Conference on Computer Vision      |       206 |
 | 49       | IEEE Transactions on Pattern Analysis and Machine Intelligence      |       196 |
 | 51       | Conference on Empirical Methods in Natural Language Processing (EMNLP)      |       193 |
+ 
+<!-- <p align="center">Computer Vision, Deep Learning, and AI conferences and journals from [Google Scholar’s Top 100 Publications](https://scholar.google.com/citations?view_op=top_venues) (as of 2024-08-25)</p> -->
+<p align="center">Computer Vision, Deep Learning, and AI Conferences and Journals from <br> <a href="https://scholar.google.com/citations?view_op=top_venues" target="_blank">Google Scholar’s Top 100 Publications</a> (as of 2024-08-25)</p>
 
 <p></p>
 
@@ -130,4 +133,4 @@ If you’re interested in pushing the boundaries of computer vision, deep learni
 
 [1] The h5-index is the h-index for articles published in the last five complete years. It measures the largest number h such that h articles published from 2019 to 2023 each have received at least h citations.
 
-[2] [A CIO canceled a Microsoft AI deal. The reason should worry the entire tech industry.](https://www.businessinsider.com/pharma-cio-cancelled-microsoft-copilot-ai-tool-2024-7)
+[2] [A CIO canceled a Microsoft AI deal. The reason should worry the entire tech industry.](https://www.businessinsider.com/pharma-cio-cancelled-microsoft-copilot-ai-tool-2024-7) July 31, 2024, Business Insider.

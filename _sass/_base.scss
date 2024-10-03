@@ -730,27 +730,31 @@ footer.sticky-bottom {
 
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          // border-bottom: 1px dashed var(--global-theme-color);
+          border-bottom: none;
 
           &:hover {
-            border-bottom-style: solid;
+            // border-bottom-style: solid;
             text-decoration: none;
           }
         }
 
         > em {
-          border-bottom: 1px solid;
+          // border-bottom: 1px solid;
+          border-bottom: none;
           font-style: normal;
         }
 
         > span.more-authors {
           color: var(--global-text-color-light);
-          border-bottom: 1px dashed var(--global-text-color-light);
+          // border-bottom: 1px dashed var(--global-text-color-light);
+          border-bottom: none;
           cursor: pointer;
 
           &:hover {
             color: var(--global-text-color);
-            border-bottom: 1px dashed var(--global-text-color);
+            // border-bottom: 1px dashed var(--global-text-color);
+            border-bottom: none;
           }
         }
       }

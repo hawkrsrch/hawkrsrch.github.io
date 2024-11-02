@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A zero-shot HOI paper accepted at [NeurIPS 2024](https://neurips.cc/Conferences/2024) (ranked as [No. 1 in AI research](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)). 
+A zero-shot HOI paper accepted at [NeurIPS 2024](https://neurips.cc/Conferences/2024) (ranked [first in AI research](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)). 

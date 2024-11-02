@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A domain-adaptive human pose estimation paper accepted at [ECCV 2024](https://eccv.ecva.net/Conferences/2024).
+A human pose paper accepted at [ECCV 2024](https://eccv.ecva.net/Conferences/2024) (ranked [top three in computer vision](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)).

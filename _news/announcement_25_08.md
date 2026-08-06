@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Serving as Area Chair for [WACV 2026](https://wacv.thecvf.com/).
+Serving as Area Chair for [WACV 2026](https://wacv.thecvf.com/Conferences/2026).

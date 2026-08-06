@@ -18,3 +18,9 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+.news table td,
+.news table th {
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+}

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Outstanding Reviewer](https://eccv.ecva.net/Conferences/2026/ProgramCommittee) at [ECCV 2026](https://eccv.ecva.net/Conferences/2026).
+Outstanding Reviewer at [ECCV 2026](https://eccv.ecva.net/Conferences/2026).

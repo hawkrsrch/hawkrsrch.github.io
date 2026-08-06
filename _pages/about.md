@@ -19,16 +19,6 @@ I am an Assistant Professor in [Computer Science](https://cs.olemiss.edu/) at [O
 
 ---
 
-_Contact_: 209-C Weir Hall, University, MS 38677
-
----
-
-_Information for Prospective Students_
-
-Current Ole Miss students: If you’re interested in research opportunities with me, please plan to take my courses (e.g., Computer Vision or Deep Learning). Afterward, feel free to email me your CV and we can set up a time to discuss potential projects in person.
-
-Prospective students: If you are interested in pursuing a PhD at Ole Miss and would like to work with me, please email your CV and transcripts with the subject line “[26Fall (or other semester you plan to start) PhD Application - Your Name].”
-
-For more information about computer vision and deep learning research and its impact, I encourage you to read [my blog post](/blog/2024/research-impact).
+_Office_: 209-C Weir Hall, University, MS 38677
 
 ---
